@@ -123,3 +123,13 @@ main{
   font-family: 'Raleway', serif;
   color: black;
 }
+
+footer{
+  background-color: #782221;
+  font-family: 'Raleway', serif;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 2%;
+}
