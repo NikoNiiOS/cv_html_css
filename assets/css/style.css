@@ -119,6 +119,10 @@ main{
   border-bottom: 0px;
 }
 
+#main-h:hover{
+  box-shadow: 4px 0px 0px 0px #782221;
+}
+
 #main-content{
   font-family: 'Raleway', serif;
   color: black;
@@ -132,4 +136,8 @@ footer{
   flex-direction: column;
   text-align: center;
   padding: 2%;
+}
+
+#nav-sn a:hover{
+  opacity: 50%;
 }
